@@ -1,0 +1,17 @@
+{
+  "name": "octnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "octonode": "^0.9.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}

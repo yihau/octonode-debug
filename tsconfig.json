@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    // ... other properties
+    "noImplicitAny": false,
+    "lib": [ "es2015", "dom" ]
+  }
+}
